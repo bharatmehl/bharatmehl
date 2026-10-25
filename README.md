@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/bharatmehl/bharatmehl/raw/main/assets/neon-octocat-teleporter.gif" alt="Neon Octocat teleporter" width="100%" />
+  <img src="https://github.com/bharatmehl/bharatmehl/raw/main/assets/octocat-teleporter-dark-hd.gif" alt="Animated Octocat teleporter" width="100%" />
 </p>
 
 ---
