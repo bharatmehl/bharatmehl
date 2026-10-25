@@ -46,41 +46,27 @@ I am a **DevSecOps and Cloud Infrastructure Engineer** with **8+ years of overal
 ## 🧰 DevOps Toolchain
 
 ### ☁️ Cloud & Infrastructure
-[![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform)
-[![Azure Networking](https://img.shields.io/badge/Azure_Networking-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/azure/virtual-network/)
-[![Azure Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/azure/key-vault/)
+<img src="https://skillicons.dev/icons?i=azure" height="48" title="Azure" alt="Azure" /> <img src="https://skillicons.dev/icons?i=terraform" height="48" title="Terraform" alt="Terraform" />
 
 ### 🐳 Containers & Orchestration
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh/)
+<img src="https://skillicons.dev/icons?i=docker" height="48" title="Docker" alt="Docker" /> <img src="https://skillicons.dev/icons?i=kubernetes" height="48" title="Kubernetes" alt="Kubernetes" /> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" height="48" title="Helm" alt="Helm" />
 
 ### 🔁 CI/CD & Automation
-[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/products/devops)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+<img src="https://skillicons.dev/icons?i=githubactions" height="48" title="GitHub Actions" alt="GitHub Actions" /> <img src="https://cdn.simpleicons.org/azuredevops/0078D7" height="48" title="Azure DevOps" alt="Azure DevOps" /> <img src="https://skillicons.dev/icons?i=git" height="48" title="Git" alt="Git" />
 
 ### 📊 Observability & Monitoring
-[![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/azure/azure-monitor/)
-[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/)
-[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
+<img src="https://skillicons.dev/icons?i=prometheus" height="48" title="Prometheus" alt="Prometheus" /> <img src="https://skillicons.dev/icons?i=grafana" height="48" title="Grafana" alt="Grafana" /> <img src="https://skillicons.dev/icons?i=azure" height="48" title="Azure Monitor" alt="Azure Monitor" />
 
 ### 🔐 Security & DevSecOps
-[![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge)](https://github.com/aquasecurity/trivy)
-[![TFLint](https://img.shields.io/badge/TFLint-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/terraform-linters/tflint)
-[![Gitleaks](https://img.shields.io/badge/Gitleaks-8B0000?style=for-the-badge)](https://github.com/gitleaks/gitleaks)
-[![Checkov](https://img.shields.io/badge/Checkov-IaC_Security-2E8B57?style=for-the-badge)](https://www.checkov.io/)
-[![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)](https://www.sonarsource.com/products/sonarqube/)
+<img src="https://avatars.githubusercontent.com/u/49598846?s=200&v=4" height="48" title="Trivy" alt="Trivy" /> <img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" height="48" title="SonarQube" alt="SonarQube" />
+
+![TFLint](https://img.shields.io/badge/TFLint-623CE4?style=flat-square&logo=terraform&logoColor=white) ![Gitleaks](https://img.shields.io/badge/Gitleaks-8B0000?style=flat-square) ![Checkov](https://img.shields.io/badge/Checkov-2E8B57?style=flat-square)
 
 ### 🗄️ Version Control & Collaboration
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Azure Repos](https://img.shields.io/badge/Azure_Repos-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/products/devops/repos)
+<img src="https://skillicons.dev/icons?i=github" height="48" title="GitHub" alt="GitHub" /> <img src="https://skillicons.dev/icons?i=git" height="48" title="Git" alt="Git" />
 
-### 🖥️ Scripting & Operating Systems
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
+### 🖥️ Scripting & OS
+<img src="https://skillicons.dev/icons?i=linux" height="48" title="Linux" alt="Linux" /> <img src="https://skillicons.dev/icons?i=bash" height="48" title="Bash" alt="Bash" /> <img src="https://skillicons.dev/icons?i=powershell" height="48" title="PowerShell" alt="PowerShell" />
 
 ---
 
