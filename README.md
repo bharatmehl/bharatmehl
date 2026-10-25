@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋 I'm Bharat Mehlawat</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&color=38BDF8&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello!+%F0%9F%91%8B;I%27m+Bharat+Mehlawat!" alt="I'm Bharat Mehlawat!" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=750&lines=DevSecOps+%26+Cloud+Infrastructure+Engineer;Azure+%7C+Terraform+%7C+Kubernetes;Secure+by+Design+%E2%80%A2+Automated+by+Default;Plan+%E2%86%92+Scan+%E2%86%92+Deploy+%E2%86%92+Monitor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=DevSecOps+%26+Cloud+Infrastructure+Engineer;Azure+%7C+Terraform+%7C+Kubernetes;Secure+by+Design+%E2%80%A2+Automated+by+Default" alt="Typing SVG" />
 </p>
 
+---
+
 <p align="center">
-  <a href="https://github.com/bharatmehl"><img src="https://github.com/bharatmehl/bharatmehl/raw/main/assets/devops-hero.png" alt="DevSecOps hero banner" width="100%" /></a>
+  <img src="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif" alt="Animated Octocat teleporter" width="100%" />
 </p>
 
 ---
