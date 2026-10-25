@@ -1,13 +1,6 @@
  <div align="center">
 
-<img src="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif" width="100%" alt="Animated GitHub banner" />
-
-# Bharat Mehlawat
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=DevSecOps+Engineer;Azure+Cloud+%7C+Terraform+%7C+CI%2FCD;Automating+Secure+Cloud+Infrastructure" alt="Typing animation" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/bharat-mehlawat/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&style=for-the-badge)](https://github.com/bharatmehl)
+[![Animated Octocat](https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif)](https://github.com/bharatmehl)
 
 </div>
 
@@ -15,26 +8,29 @@
 
 ## 👨‍💻 About Me
 
-I am a DevSecOps and Cloud Infrastructure Engineer with 8+ years of overall IT experience, focused on Azure infrastructure, Terraform automation, secure CI/CD pipelines, and cloud operations. I enjoy improving reliability, embedding security into delivery workflows, and building reusable infrastructure solutions.
+I am a DevSecOps and Cloud Infrastructure Engineer with 8+ years of overall IT experience, focused on designing, automating, and securing cloud infrastructure. My core interests include Azure cloud architecture, Infrastructure as Code, CI/CD automation, security integration, and cloud operations.
+
+I believe in building infrastructure that is **secure by design, automated by default, and reliable at scale.**
 
 ### Currently Working On
 
-- Automating Azure infrastructure using Terraform.
-- Improving security checks in Azure DevOps and GitHub Actions.
-- Exploring Infrastructure as Code security and cloud governance.
-- Building reusable modules and multi-environment deployments.
+- Strengthening Azure infrastructure automation with reusable Terraform modules.
+- Integrating security scanning into Azure DevOps and GitHub Actions pipelines.
+- Building multi-environment infrastructure with secure networking and access controls.
+- Exploring cloud governance, infrastructure optimization, and DevSecOps best practices.
 
 ---
 
-## 🚀 What I Do
+# 🚀 What I Do
 
-- ☁️ Design and manage Azure cloud infrastructure.
-- 🏗️ Build reusable Terraform modules and Infrastructure as Code.
-- 🔄 Automate CI/CD pipelines with Azure DevOps and GitHub Actions.
-- 🔐 Integrate secret scanning and IaC security checks.
-- 🐳 Work with containers and deployment automation.
-- 💰 Improve cloud resource utilization and cost visibility.
-- 🛡️ Apply least privilege and secure infrastructure practices.
+- ☁️ Design and manage Azure cloud infrastructure and networking.
+- 🏗️ Build reusable Terraform modules for infrastructure provisioning.
+- 🔄 Automate CI/CD pipelines using Azure DevOps and GitHub Actions.
+- 🔐 Integrate shift-left security, secret scanning, and IaC security checks.
+- 🛡️ Apply least privilege, secure configuration, and infrastructure governance.
+- 🐳 Work with containerization and deployment automation.
+- 📊 Improve cloud visibility, operational reliability, and cost efficiency.
+- ⚙️ Automate repetitive infrastructure and operational tasks.
 
 ---
 
@@ -42,94 +38,133 @@ I am a DevSecOps and Cloud Infrastructure Engineer with 8+ years of overall IT e
 
 ### ☁️ Cloud & Infrastructure
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p>
+<a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/></a>
+<a href="https://developer.hashicorp.com/terraform"><img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/></a>
+<a href="https://learn.microsoft.com/en-us/azure/virtual-network/"><img src="https://img.shields.io/badge/Azure_Networking-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Networking"/></a>
+<a href="https://learn.microsoft.com/en-us/azure/key-vault/"><img src="https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Key Vault"/></a>
+</p>
 
 ### 🐳 Containers & Orchestration
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+<p>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+<a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
+<a href="https://helm.sh/"><img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/></a>
+</p>
 
 ### 🔁 CI/CD & Automation
 
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+<a href="https://azure.microsoft.com/en-us/products/devops"><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/></a>
+<a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/></a>
+<a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/></a>
+</p>
 
 ### 📊 Observability & Monitoring
 
-![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+<p>
+<a href="https://learn.microsoft.com/en-us/azure/azure-monitor/"><img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Monitor"/></a>
+<a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/></a>
+<a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/></a>
+</p>
 
 ### 🔐 Security & DevSecOps
 
-![Trivy](https://img.shields.io/badge/Trivy-Security-1904DA?style=for-the-badge)
-![TFLint](https://img.shields.io/badge/TFLint-Terraform-blue?style=for-the-badge)
-![Gitleaks](https://img.shields.io/badge/Gitleaks-Secrets-red?style=for-the-badge)
-![Checkov](https://img.shields.io/badge/Checkov-IaC-green?style=for-the-badge)
-![SonarQube](https://img.shields.io/badge/SonarQube-Code_Quality-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+<p>
+<a href="https://github.com/aquasecurity/trivy"><img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge" alt="Trivy"/></a>
+<a href="https://github.com/terraform-linters/tflint"><img src="https://img.shields.io/badge/TFLint-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="TFLint"/></a>
+<a href="https://github.com/gitleaks/gitleaks"><img src="https://img.shields.io/badge/Gitleaks-8B0000?style=for-the-badge" alt="Gitleaks"/></a>
+<a href="https://www.checkov.io/"><img src="https://img.shields.io/badge/Checkov-IaC_Security-2E8B57?style=for-the-badge" alt="Checkov"/></a>
+<a href="https://www.sonarsource.com/products/sonarqube/"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/></a>
+</p>
 
 ### 🗄️ Version Control & Collaboration
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Azure Repos](https://img.shields.io/badge/Azure_Repos-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+<p>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://azure.microsoft.com/en-us/products/devops/repos"><img src="https://img.shields.io/badge/Azure_Repos-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure Repos"/></a>
+</p>
 
-### 🖥️ Scripting & OS
+### 🖥️ Scripting & Operating Systems
 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+<p>
+<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/></a>
+<a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/></a>
+</p>
 
 ---
 
 ## 🏗️ Featured Projects
 
-### ☁️ Azure Landing Zone
+### ☁️ Azure Landing Zone with Terraform
 
-> Modular Azure infrastructure using Terraform, with networking, resource organization, environment separation, and security controls.
+> A modular Azure infrastructure project focused on resource organization, virtual networking, subnet architecture, environment separation, and reusable Terraform modules.
 
-🔗 [Explore My Repositories](https://github.com/bharatmehl?tab=repositories)
+**Technologies:** Azure · Terraform · Azure Networking · Infrastructure as Code
+
+🔗 [Explore Azure Landing Zone](https://github.com/bharatmehl/Azure-landing-zone)
 
 ---
 
 ### 🔐 DevSecOps CI/CD Pipeline
 
-> Automated infrastructure validation and security scanning using pipeline workflows, with controlled deployment stages.
+> An infrastructure delivery workflow integrating Terraform formatting, validation, planning, and security scanning into CI/CD pipelines, with controlled deployment stages.
 
-🔗 [Explore My Repositories](https://github.com/bharatmehl?tab=repositories)
+**Technologies:** Azure DevOps · GitHub Actions · Terraform · TFLint · Trivy · Gitleaks
 
----
-
-### 🏗️ Terraform Modules
-
-> Reusable Terraform components for Azure resource provisioning, variables, outputs, and consistent infrastructure deployment.
-
-🔗 [Explore My Repositories](https://github.com/bharatmehl?tab=repositories)
+🔗 [Explore Repositories](https://github.com/bharatmehl?tab=repositories)
 
 ---
 
-### 🛡️ Infrastructure Security Scanning
+### 🏗️ Reusable Terraform Modules
 
-> Integrating tools such as TFLint, Trivy, Gitleaks, and Checkov to identify configuration issues and security risks.
+> Reusable infrastructure components designed to simplify Azure resource provisioning, standardize configurations, and improve maintainability across environments.
 
-🔗 [Explore My Repositories](https://github.com/bharatmehl?tab=repositories)
+**Technologies:** Terraform · AzureRM Provider · Variables · Outputs · Remote State
+
+🔗 [Explore Repositories](https://github.com/bharatmehl?tab=repositories)
 
 ---
 
-### 🔄 Azure DevOps Automation
+### 🛡️ Infrastructure Security Automation
 
-> CI/CD pipelines for Terraform initialization, validation, planning, and controlled infrastructure deployment.
+> Security checks for infrastructure code and delivery workflows, helping identify configuration issues, exposed secrets, and potential risks before deployment.
 
-🔗 [Explore My Repositories](https://github.com/bharatmehl?tab=repositories)
+**Technologies:** Checkov · TFLint · Trivy · Gitleaks · CI/CD
+
+🔗 [Explore Repositories](https://github.com/bharatmehl?tab=repositories)
+
+---
+
+### 🔄 Azure Infrastructure Automation
+
+> Automated provisioning workflows for Azure resources with repeatable Terraform deployments, environment-specific configurations, and pipeline-based validation.
+
+**Technologies:** Azure · Terraform · Azure DevOps · GitHub Actions
+
+🔗 [Explore Repositories](https://github.com/bharatmehl?tab=repositories)
+
+---
+
+### 📊 Cloud Monitoring & Operations
+
+> A learning and implementation area for centralized monitoring, infrastructure health visibility, operational alerts, and cloud resource optimization.
+
+**Technologies:** Azure Monitor · Log Analytics · Azure Infrastructure
+
+🔗 [Explore Repositories](https://github.com/bharatmehl?tab=repositories)
 
 ---
 
 ## 📜 Certifications
 
 - Add your completed Microsoft Azure certifications here.
-- Add Terraform or Kubernetes certifications if completed.
-- Mention certifications in progress separately.
+- Add any completed Terraform, Kubernetes, or security certifications.
+- List certifications currently in progress separately, with their correct status.
 
 ---
 
@@ -137,13 +172,13 @@ I am a DevSecOps and Cloud Infrastructure Engineer with 8+ years of overall IT e
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bharatmehl&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bharatmehl&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatmehl&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatmehl&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=bharatmehl&style=flat-square&color=blue" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=bharatmehl&style=for-the-badge&color=0078D4" alt="Profile Visitors"/>
 
 </div>
 
@@ -151,16 +186,25 @@ I am a DevSecOps and Cloud Infrastructure Engineer with 8+ years of overall IT e
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Bharat Mehlawat](https://www.linkedin.com/in/bharat-mehlawat/)
-- 🐙 GitHub: [bharatmehl](https://github.com/bharatmehl)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/bharat-mehlawat/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/bharatmehl">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
 
 ---
 
-## 🐍 Contribution Graph
+### 🐍 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bharatmehl/bharatmehl/output/github-snake.svg" alt="GitHub contribution snake" width="100%" />
+<img src="https://raw.githubusercontent.com/bharatmehl/bharatmehl/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
 
@@ -168,8 +212,8 @@ I am a DevSecOps and Cloud Infrastructure Engineer with 8+ years of overall IT e
 
 <div align="center">
 
-⭐ Always learning, automating, and building secure cloud solutions.
+⭐ **Always learning, automating, and building secure cloud solutions.**
 
-**Thanks for visiting my profile! 🚀**
+*Thanks for visiting my profile!*
 
 </div>
