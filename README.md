@@ -1,3 +1,17 @@
+<div align="center">
+
+# I'm Bharat Mehlawat
+
+### Azure | Terraform | Kubernetes
+
+<img src="./assets/devops-hero.png"
+     width="100%"
+     alt="DevSecOps animated-style hero banner"/>
+
+</div>
+ 
+ 
+ 
  <div align="center">
 
 [![Animated Octocat](https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif)](https://github.com/bharatmehl)
